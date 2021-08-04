@@ -166,8 +166,8 @@ material-dashboard-react
     └── views
         ├── Dashboard
         │   └── Dashboard.js
-        ├── Icons
-        │   └── Icons.js
+        ├── Experts
+        │   └── Experts.js
         ├── Maps
         │   └── Maps.js
         ├── Notifications
